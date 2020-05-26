@@ -1,0 +1,66 @@
+
+.block_cv{
+    background-color: #F5F5F5;
+    width: 65%;
+    margin: 5rem auto;
+}
+.block_img{
+    background-color:#1E1E1E;
+    border-right: 0.2rem solid orange;
+    box-sizing: border-box;
+}
+.photo{
+    width: 150px;
+    height: 150px;
+    box-sizing: border-box;
+    border: 0.3rem solid orange;
+    margin: 4rem auto;
+    transform: rotate(45deg)
+}
+.city{
+    color: orange;
+}
+.x{
+    width: 100%;
+    height: 300px;
+    margin-top: 3rem;
+}
+/*.x h6 {*/
+/*    color: orange;*/
+/*}*/
+.link_my_project{
+    margin-top: 3rem;
+}
+.contacts{
+    margin-top: 5.5rem;
+}
+.block_description{
+    background-color:#F5F5F5 ;
+    padding: 1rem;
+}
+.web_developer{
+    margin-top: 1rem;
+}
+.skills, .courses , .education , .languages{
+    /*padding-top: 1rem;*/
+}
+.skills nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+@media (max-width: 813px) {
+    .x{
+        height: 200px;
+    }
+    .block_img{
+        border-bottom:0.2rem solid orange ;
+        border-right: none;
+    }
+}
+@media (max-width: 415px) {
+    .block_cv{
+        width: 100%;
+    }
+}
