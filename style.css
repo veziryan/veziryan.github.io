@@ -18,7 +18,6 @@
     border: 0.4rem solid orange;
     box-sizing: border-box;
     transform: rotate(45deg);
-    /*border-radius: 50%;*/
     overflow: hidden;
 }
 .photo > img {
