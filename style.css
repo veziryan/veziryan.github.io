@@ -83,15 +83,15 @@
 /*cvRus CSS!!!!!!!!!!!!!!!!!!*/
 
 .block_cv_rus{
-    width: 2.5rem;
-    height: 2.5rem;
-    background-color:#1E1E1E;
     color: orange;
     position: absolute;
     right: 0;
-    border-radius: 1.8rem;
     z-index: 1000;
     padding: 0.4rem;
+}
+.block_cv_rus img {
+    width: 2rem;
+
 }
 .block_cv a {
     text-decoration: none;
