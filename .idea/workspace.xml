@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8416442a-4c63-4214-ac34-397b2da6beaf" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="8416442a-4c63-4214-ac34-397b2da6beaf" name="Default Changelist" comment="cv rus2">
       <change beforePath="$PROJECT_DIR$/cvRus.html" beforeDir="false" afterPath="$PROJECT_DIR$/cvRus.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +51,7 @@
       <updated>1623239074466</updated>
       <workItem from="1623239076687" duration="3235000" />
       <workItem from="1623871137490" duration="6646000" />
-      <workItem from="1623950018605" duration="1510000" />
+      <workItem from="1623950018605" duration="1850000" />
     </task>
     <task id="LOCAL-00001" summary="cv">
       <created>1623240069073</created>
@@ -104,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1623877819160</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="cv rus2">
+      <created>1623951555432</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1623951555432</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,6 +119,7 @@
     <MESSAGE value="cv" />
     <MESSAGE value="cv finish" />
     <MESSAGE value="cv rus" />
-    <option name="LAST_COMMIT_MESSAGE" value="cv rus" />
+    <MESSAGE value="cv rus2" />
+    <option name="LAST_COMMIT_MESSAGE" value="cv rus2" />
   </component>
 </project>
